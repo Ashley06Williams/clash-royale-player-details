@@ -15,7 +15,7 @@ const config: Config = {
         blue: {
           DEFAULT: "#131B30",
           light: "#2F3D60",
-          clash: "023CDE",
+          clash: "#023CDE",
         },
 
         red: "#D82366",

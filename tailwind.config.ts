@@ -17,6 +17,7 @@ const config: Config = {
           light: "#2F3D60",
           clash: "#023CDE",
         },
+        purple: "#9BA5E2",
 
         red: "#D82366",
       },
